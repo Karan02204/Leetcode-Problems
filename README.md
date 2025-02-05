@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Karan02204/Leetcode-Problems/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Karan02204/Leetcode-Problems/tree/master/0066-plus-one) |
 ## Linked List
 |  |
 | ------- |
