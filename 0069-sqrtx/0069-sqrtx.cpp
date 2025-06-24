@@ -9,7 +9,7 @@ public:
             if((long long)mid*mid == x){
                 return mid;
             }
-            if((long long)mid*mid < x){
+            if(x>(long long)mid*mid ){
                 low = mid+1;
                 ans = mid;
             } else {
