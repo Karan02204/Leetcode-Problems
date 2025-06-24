@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Karan02204/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0724-find-pivot-index](https://github.com/Karan02204/Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/Karan02204/Leetcode-Problems/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Karan02204/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0792-binary-search](https://github.com/Karan02204/Leetcode-Problems/tree/master/0792-binary-search) |
 ## Brainteaser
 |  |
 | ------- |
