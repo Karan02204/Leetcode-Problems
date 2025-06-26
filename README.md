@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Karan02204/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Karan02204/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Karan02204/Leetcode-Problems/tree/master/0645-set-mismatch) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Karan02204/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [2481-strictly-palindromic-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Karan02204/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Karan02204/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Karan02204/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Karan02204/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Karan02204/Leetcode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Karan02204/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Karan02204/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Karan02204/Leetcode-Problems/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
