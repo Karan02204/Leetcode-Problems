@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Karan02204/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/Karan02204/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Karan02204/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Karan02204/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Karan02204/Leetcode-Problems/tree/master/0792-binary-search) |
@@ -155,9 +156,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Karan02204/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Karan02204/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0506-relative-ranks](https://github.com/Karan02204/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Karan02204/Leetcode-Problems/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Karan02204/Leetcode-Problems/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Karan02204/Leetcode-Problems/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
