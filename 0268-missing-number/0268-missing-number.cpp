@@ -4,8 +4,8 @@ public:
         int correctIndex;
         int i=0;
         while(i<nums.size()){
-            if(nums[i]!=i && nums[i] < nums.size()){
-                correctIndex = nums[i];
+            correctIndex = nums[i];
+            if(nums[i] < nums.size() && nums[i]!=nums[correctIndex]){
                 int temp = nums[i];
                 nums[i] = nums[correctIndex];
                 nums[correctIndex] = temp;
