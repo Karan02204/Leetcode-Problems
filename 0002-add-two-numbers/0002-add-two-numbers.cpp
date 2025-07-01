@@ -14,7 +14,7 @@ public:
         ListNode* temp1 = l1;
         ListNode* temp2 = l2;
         ListNode* dummy = new ListNode(0);
-        ListNode* start = dummy;
+        ListNode* temp = dummy;
         int carry = 0;
         while(temp1!=NULL || temp2!=NULL || carry){
             int sum=0;
@@ -30,8 +30,8 @@ public:
             sum  = sum+carry;
             ListNode* newHead = new ListNode(sum % 10);
             carry = sum/10;
-            start->next = newHead;
-            start = start->next;
+            temp->next = newHead;
+            temp = temp->next;
         }
 
         return dummy->next;
