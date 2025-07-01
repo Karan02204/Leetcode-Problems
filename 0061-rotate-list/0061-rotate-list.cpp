@@ -20,17 +20,24 @@ public:
             temp = temp->next;
             size++;
         }
-        temp->next = head; // making it a circular list
-        k = k%size;
-        int steps = size - k;
-        ListNode* newTail = head;
-        for(int i=1;i<steps;i++){
-            newTail = newTail->next;
+        
+        k = k % size;
+        ListNode* fast = head;
+        ListNode* slow = head;
+
+        for(int i =0;i<k;i++){
+            fast = fast->next;
         }
 
-        ListNode* newhead = newTail->next;
-        newTail->next = NULL;
+        while(fast->next!=NULL){
+            fast =fast->next;
+            slow = slow->next;
+        }
 
-        return newhead;
+        fast->next = head;
+        head = slow->next;
+        slow->next= NULL;
+
+        return head;
     }
 };
