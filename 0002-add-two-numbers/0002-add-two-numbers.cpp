@@ -28,14 +28,12 @@ public:
             }
 
             sum  = sum+carry;
+            ListNode* newHead = new ListNode(sum % 10);
             carry = sum/10;
-            dummy->next = new ListNode(sum % 10);
-            dummy = dummy->next;
-
-
-    
+            start->next = newHead;
+            start = start->next;
         }
 
-        return start->next;
+        return dummy->next;
     }
 };
