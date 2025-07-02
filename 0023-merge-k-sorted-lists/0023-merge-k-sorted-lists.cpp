@@ -14,8 +14,8 @@ public:
         ListNode* temp1 = list1;
         ListNode* temp2 = list2;
 
-        ListNode* dummy = new ListNode(0);
-        ListNode* temp = dummy;
+        ListNode dummy(0);
+        ListNode* temp = &dummy;
         while(temp1!=NULL && temp2!=NULL){
             if(temp1->val <= temp2->val){
                 temp->next = temp1;
@@ -34,7 +34,7 @@ public:
             temp->next = temp2;
         }
 
-        return dummy->next;
+        return dummy.next;
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         ListNode* head = NULL;
