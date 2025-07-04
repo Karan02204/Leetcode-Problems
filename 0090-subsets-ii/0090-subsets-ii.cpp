@@ -6,6 +6,7 @@ public:
         for(int i=index;i<nums.size();i++){
 
             if(i>index && nums[i] == nums[i-1]) continue;
+            //if(i<nums.size() && nums[i] == nums[i+1]) continue;
             temp.push_back(nums[i]);
             func(nums,result,temp,i+1);
             temp.pop_back();
