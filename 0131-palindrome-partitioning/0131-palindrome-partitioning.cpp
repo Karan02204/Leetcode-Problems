@@ -12,16 +12,17 @@ public:
         return true;
     }
 
-    void func(vector<vector<string>>& result, vector<string>& temp, string s ,int index){
-        if(index == s.length()){
+    void func(vector<vector<string>>& result, vector<string>& temp, string s){
+        if(s.empty()){
             result.push_back(temp);
             return;
         }
 
-        for(int i=index;i<s.length();i++){
-            if(palindrome(s,index,i)){
-                temp.push_back(s.substr(index, i - index + 1));
-                func(result,temp,s,i+1);
+        for(int i=0;i<s.length();i++){
+            if(palindrome(s,0,i)){
+                string prefix = s.substr(0,i+1);
+                temp.push_back(prefix);
+                func(result,temp,s.substr(i+1));
                 temp.pop_back();
             }
         }
@@ -29,7 +30,7 @@ public:
     vector<vector<string>> partition(string s) {
         vector<vector<string>> result;
         vector<string> temp;
-        func(result,temp,s,0);
+        func(result,temp,s);
 
         return result;
     }
