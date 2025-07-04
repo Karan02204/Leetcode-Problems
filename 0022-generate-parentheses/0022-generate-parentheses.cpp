@@ -3,6 +3,7 @@ public:
     void func(vector<string>& result , int n, int open , int close,string temp){
         if(close == n){
             result.push_back(temp);
+            return;
         }
         if(open < n){
             temp = temp+"(";
