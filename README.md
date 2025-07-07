@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Karan02204/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Karan02204/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Karan02204/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Karan02204/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -242,4 +243,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Karan02204/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Karan02204/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Karan02204/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Karan02204/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Karan02204/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Karan02204/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
