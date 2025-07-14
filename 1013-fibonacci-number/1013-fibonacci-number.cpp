@@ -1,13 +1,21 @@
 class Solution {
 public:
     int fib(int n) {
-        int a =0;
-        int b = 1;
-
-        if(n == 0 || n ==1){
+        vector<int> store(n+1);
+        
+        if(n<=1){
             return n;
         }
-        return fib(n-1) + fib(n-2);
+
+        store[0] = 0;
+        store[1] = 1;
+
+
+        for(int i=2;i<=n;i++){
+            store[i] = store[i-1] + store[i-2];
+        }
+
+        return store[n];
 
     }
 };
