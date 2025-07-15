@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Karan02204/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Karan02204/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Karan02204/Leetcode-Problems/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1250-longest-common-subsequence](https://github.com/Karan02204/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Karan02204/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [1013-fibonacci-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Karan02204/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
