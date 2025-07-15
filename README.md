@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Karan02204/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Karan02204/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Karan02204/Leetcode-Problems/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Karan02204/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Karan02204/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Karan02204/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Karan02204/Leetcode-Problems/tree/master/0057-insert-interval) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Karan02204/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Karan02204/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Karan02204/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Karan02204/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Karan02204/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Karan02204/Leetcode-Problems/tree/master/0070-climbing-stairs) |
@@ -404,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Karan02204/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Karan02204/Leetcode-Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
