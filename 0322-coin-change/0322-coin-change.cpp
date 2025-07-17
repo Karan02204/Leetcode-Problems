@@ -5,7 +5,7 @@ public:
         int m = amount;
 
         vector<vector<int>> dp(n+1,vector<int>(m+1,0));
-        for(int i=0;i<=m;i++){
+        for(int i=1;i<=m;i++){
             dp[0][i] = INT_MAX - 1 ;
         }
 
