@@ -21,6 +21,6 @@ public:
             }
         }
 
-        return static_cast<int>(dp[n][m]);
+        return dp[n][m];
     }
 };
