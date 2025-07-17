@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Karan02204/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Karan02204/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Karan02204/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Karan02204/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Karan02204/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Karan02204/Leetcode-Problems/tree/master/0070-climbing-stairs) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Karan02204/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Karan02204/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Karan02204/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Karan02204/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Karan02204/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Karan02204/Leetcode-Problems/tree/master/0072-edit-distance) |
@@ -421,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Karan02204/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Karan02204/Leetcode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
