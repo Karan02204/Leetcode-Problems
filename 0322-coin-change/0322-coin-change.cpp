@@ -4,9 +4,9 @@ public:
         int n = coins.size();
         int m = amount;
 
-        vector<vector<int>> dp(n+1,vector<int>(m+1,INT_MAX-1));
-        for(int i=0;i<=n;i++){
-            dp[i][0] = 0 ;
+        vector<vector<int>> dp(n+1,vector<int>(m+1,0));
+        for(int i=0;i<=m;i++){
+            dp[0][i] = INT_MAX - 1 ;
         }
 
         for(int i=1;i<=n;i++){
