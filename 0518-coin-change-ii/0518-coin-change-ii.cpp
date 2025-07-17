@@ -4,7 +4,7 @@ public:
         int n = coins.size();
         int m = amount;
 
-        vector<vector<unsigned int>> dp(n+1,vector<unsigned int>(m+1,0));
+        vector<vector<unsigned long long>> dp(n+1,vector<unsigned long long>(m+1,0));
 
         for(int i=0;i<=n;i++){
             dp[i][0] = 1;
