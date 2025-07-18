@@ -1,17 +1,17 @@
 class Solution {
 public:
     void dfs(vector<vector<int>>& grid, int i, int j, int r, int c, int& sum) {
-        if (i < 0 || j < 0 || i >= r || j >= c || grid[i][j] != 1) {
+        if (i < 0 || j < 0 || i == r || j == c || grid[i][j] != 1) {
             return;
         }
         grid[i][j] = -1;
         if (i - 1 < 0 || grid[i - 1][j] == 0){
             sum += 1;
         } 
-        if (j + 1 >= c || grid[i][j + 1] == 0){
+        if (j + 1 == c || grid[i][j + 1] == 0){
             sum += 1;
         }
-        if (i + 1 >= r || grid[i + 1][j] == 0){
+        if (i + 1 == r || grid[i + 1][j] == 0){
             sum += 1;
         }
         if (j - 1 < 0 || grid[i][j - 1] == 0) {
