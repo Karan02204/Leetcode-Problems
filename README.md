@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Karan02204/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Karan02204/Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0645-set-mismatch](https://github.com/Karan02204/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/Karan02204/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Karan02204/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/Karan02204/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Karan02204/Leetcode-Problems/tree/master/0792-binary-search) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Karan02204/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Karan02204/Leetcode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Karan02204/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0904-leaf-similar-trees](https://github.com/Karan02204/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Karan02204/Leetcode-Problems/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Binary Tree
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Karan02204/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Karan02204/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Karan02204/Leetcode-Problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0695-max-area-of-island](https://github.com/Karan02204/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Karan02204/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Karan02204/Leetcode-Problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Karan02204/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 ## Combinatorics
 |  |
 | ------- |
@@ -440,4 +444,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Karan02204/Leetcode-Problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Karan02204/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
