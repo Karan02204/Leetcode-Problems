@@ -1,52 +1,48 @@
 class Solution {
 public:
+    void dfs(vector<vector<int>>& grid, int i, int j, int minute) {
+        int r = grid.size();
+        int c = grid[0].size();
+
+        // Out of bounds or empty cell
+        if (i < 0 || j < 0 || i >= r || j >= c) return;
+
+        // If the cell is empty or already rotten faster, return
+        if (grid[i][j] == 0 || (grid[i][j] > 1 && grid[i][j] < minute)) return;
+
+        grid[i][j] = minute;
+
+        dfs(grid, i + 1, j, minute + 1);
+        dfs(grid, i - 1, j, minute + 1);
+        dfs(grid, i, j + 1, minute + 1);
+        dfs(grid, i, j - 1, minute + 1);
+    }
+
     int orangesRotting(vector<vector<int>>& grid) {
         int r = grid.size();
         int c = grid[0].size();
 
-        int fresh = 0;
-
-        queue<pair<int,int>> q;
-
-        for(int i=0;i<r;i++){
-            for(int j=0;j<c;j++){
-                if(grid[i][j] == 1){
-                    fresh++;
-                } else if(grid[i][j] == 2){
-                    q.push({i,j});
+        // Start DFS from each rotten orange
+        for (int i = 0; i < r; ++i) {
+            for (int j = 0; j < c; ++j) {
+                if (grid[i][j] == 2) {
+                    dfs(grid, i, j, 2); // Start at minute 2
                 }
             }
         }
 
-        vector<int> dx = {0,0,-1,1};
-        vector<int> dy = {1,-1,0,0};
-        int min = 0;
+        int result = 0;
 
-        while(q.size()>0){
-            int size = q.size();
-
-            for(int i=0;i<size;i++){
-                pair<int,int> node = q.front();
-                q.pop();
-
-                for(int j=0;j<4;j++){
-                    int x = node.first + dx[j];
-                    int y = node.second + dy[j];
-
-                    if(x>=0 && y>=0 && x<r && y<c && grid[x][y] == 1){
-                        q.push({x,y});
-                        grid[x][y] = 2;
-                        fresh--;
-                    }
+        for (int i = 0; i < r; ++i) {
+            for (int j = 0; j < c; ++j) {
+                if (grid[i][j] == 1) {
+                    // Fresh orange remains
+                    return -1;
                 }
+                result = max(result, grid[i][j]);
             }
-            if(q.size()>0)min++;
         }
 
-        if(fresh == 0){
-            return min;
-        }
-
-        return -1;
+        return result == 0 ? 0 : result - 2;
     }
 };
