@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Karan02204/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Karan02204/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Karan02204/Leetcode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Karan02204/Leetcode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [3430-count-days-without-meetings](https://github.com/Karan02204/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
 |  |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Karan02204/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Karan02204/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Karan02204/Leetcode-Problems/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Karan02204/Leetcode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Karan02204/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Karan02204/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Karan02204/Leetcode-Problems/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Karan02204/Leetcode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Combinatorics
 |  |
 | ------- |
