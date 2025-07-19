@@ -5,7 +5,6 @@ public:
         int c = grid[0].size();
 
         int fresh = 0;
-        int rotten = 0;
 
         queue<pair<int,int>> q;
 
@@ -14,7 +13,6 @@ public:
                 if(grid[i][j] == 1){
                     fresh++;
                 } else if(grid[i][j] == 2){
-                    rotten++;
                     q.push({i,j});
                 }
             }
