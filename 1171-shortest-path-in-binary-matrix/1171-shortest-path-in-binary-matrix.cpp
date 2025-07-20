@@ -29,7 +29,7 @@ public:
                     int x = node.first + dx[j];
                     int y = node.second + dy[j];
 
-                    if(x>=0 && y>=0 && x<r && y<r && grid[x][y] == 0){
+                    if(x>=0 && y>=0 && x<r && y<c && grid[x][y] == 0){
                         q.push({x,y});
                         grid[x][y] = 1+distance;
                     }
