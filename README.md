@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Karan02204/Leetcode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Karan02204/Leetcode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Karan02204/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/2480-find-subarrays-with-equal-sum) |
 | [3430-count-days-without-meetings](https://github.com/Karan02204/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Karan02204/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Math
 |  |
 | ------- |
