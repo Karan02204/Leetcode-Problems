@@ -5,13 +5,13 @@ public:
             return false;
         }
 
-        map<char,int> m;
+        map<int,int> m;
         for(char c : s){
             m[c]++;
         }
 
         for(char c : t){
-            if(m.find(c) == m.end() || m[c] == 0){
+            if(m.find(c)==m.end() || m[c] == 0){
                 return false;
             }
             m[c]--;
