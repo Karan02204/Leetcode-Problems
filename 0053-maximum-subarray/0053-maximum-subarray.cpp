@@ -5,13 +5,14 @@ public:
         int max = INT_MIN;
 
         for(int i=0;i<nums.size();i++){
-            sum = sum + nums[i];
+            sum += nums[i];
 
-            if(max < sum ){
+            if(max < sum )
+            {
                 max = sum;
             }
 
-            if(sum < 0 )
+            if(sum < 0)
             {
                 sum = 0;
             }
