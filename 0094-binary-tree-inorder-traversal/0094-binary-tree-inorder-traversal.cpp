@@ -11,19 +11,18 @@
  */
 class Solution {
 public:
-    void Helper(vector<int>& ans, TreeNode* root){
+    void Helper(TreeNode* root,vector<int>& answer){
         if(root == NULL){
             return;
         }
-        Helper(ans,root->left);
-        ans.push_back(root->val);
-        Helper(ans,root->right);
 
+        Helper(root->left,answer);
+        answer.push_back(root->val);
+        Helper(root->right,answer);
     }
     vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> ans;
-        Helper(ans,root);
-
-        return ans;
+        vector<int> answer;
+        Helper(root,answer);
+        return answer;
     }
 };
