@@ -20,6 +20,7 @@ public:
             prev = curr;
             curr = temp;
         }
+
         head = prev;
 
         return head;
