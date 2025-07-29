@@ -12,9 +12,7 @@
 class Solution {
 public:
     void Helper(TreeNode* root , vector<int>& answer){
-        if(root == NULL){
-            return;
-        }
+        if(!root) return;
 
         Helper(root->left,answer);
         answer.push_back(root->val);
