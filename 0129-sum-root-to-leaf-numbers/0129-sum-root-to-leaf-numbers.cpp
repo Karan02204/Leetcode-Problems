@@ -11,26 +11,25 @@
  */
 class Solution {
 public:
-    void Helper(int& sum,int number,TreeNode* root){
+    void Helper(TreeNode* root , int& sum , int number){
         if(root == NULL){
             return;
         }
-        
-        number = number*10 + root->val;
 
+        number = number*10 + root->val;
         if(root->left == NULL && root->right == NULL){
             sum+=number;
             return;
         }
 
-        Helper(sum,number,root->left);
-        Helper(sum,number,root->right);
+        Helper(root->left , sum , number);
+        Helper(root->right , sum , number);
     }
-    int sumNumbers(TreeNode* root) {
+     int sumNumbers(TreeNode* root) {
         int sum = 0;
         int number = 0;
 
-        Helper(sum,number,root);
+        Helper(root , sum , number);
 
         return sum;
     }
