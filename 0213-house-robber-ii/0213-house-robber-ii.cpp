@@ -7,7 +7,7 @@ public:
         if(n == 1) return nums[0];
         if(n == 2) return max(nums[0] , nums[1]);
 
-        vector<int> dp(n);
+        vector<int> dp(n); // this excludes the last house
 
         dp[0] = nums[0];
         dp[1] = max(nums[0] , nums[1]);
@@ -15,7 +15,7 @@ public:
             dp[i] = max(dp[i-1] , nums[i] + dp[i-2]);
         }
 
-        vector<int> dp2(n);
+        vector<int> dp2(n); // this excludes the first house
 
         dp2[0] = nums[1];
         dp2[1] = max(nums[1] , nums[2]);
