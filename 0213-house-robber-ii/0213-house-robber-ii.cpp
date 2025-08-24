@@ -8,7 +8,7 @@ public:
         vector<int> dp(nums.size());
         dp[0] = nums[0];
         dp[1] = max(nums[0],nums[1]);
-        for(int i=2;i<nums.size()-1;i++){
+        for(int i=2;i<nums.size();i++){
             dp[i] = max(dp[i-1],nums[i]+dp[i-2]);
         }
         vector<int> dp2(nums.size());
@@ -18,6 +18,8 @@ public:
         for(int i=2;i<nums.size()-1;i++){
             dp2[i] = max(dp2[i-1],nums[i+1]+dp2[i-2]);
         }
+        //for(int i : dp) cout << i << " ";
+        //for(int i : dp2) cout << i << " ";
         return max(dp[nums.size()-2],dp2[nums.size()-2]);
     }
 };
