@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Karan02204/Leetcode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Karan02204/Leetcode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Karan02204/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2058-concatenation-of-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/2480-find-subarrays-with-equal-sum) |
 | [3430-count-days-without-meetings](https://github.com/Karan02204/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
@@ -505,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Karan02204/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Karan02204/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
