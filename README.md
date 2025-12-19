@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Karan02204/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Karan02204/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Karan02204/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Karan02204/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/Karan02204/Leetcode-Problems/tree/master/0816-design-hashset) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Karan02204/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Karan02204/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Karan02204/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0451-sort-characters-by-frequency](https://github.com/Karan02204/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Karan02204/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Karan02204/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Karan02204/Leetcode-Problems/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Karan02204/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Karan02204/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Karan02204/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Karan02204/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Karan02204/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0948-sort-an-array) |
@@ -332,11 +335,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Karan02204/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Karan02204/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Karan02204/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Karan02204/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Karan02204/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Karan02204/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Karan02204/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0948-sort-an-array) |
 ## Design
@@ -561,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Karan02204/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Karan02204/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
