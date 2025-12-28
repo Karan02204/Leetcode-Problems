@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Karan02204/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/Karan02204/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Karan02204/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0403-frog-jump](https://github.com/Karan02204/Leetcode-Problems/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Karan02204/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Karan02204/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Karan02204/Leetcode-Problems/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/Karan02204/Leetcode-Problems/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Karan02204/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
