@@ -1,21 +1,20 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        map<int , int> m;
+        int count = 0;
+        int maxElement = -1;
 
-        for(auto val : nums){ //storing the frequency of elements
-            m[val]++;
-        }
-
-        int max=0;
-        int ans;
-        for(const auto &p : m){ //extract the element with the max frequency
-            if(p.second > max){
-                max = p.second;
-                ans = p.first;
+        for(int i : nums){
+            if(count == 0){
+                count++;
+                maxElement = i;
+            } else if(i == maxElement){
+                count++;
+            } else{
+                count--;
             }
         }
 
-        return ans;
+        return maxElement;
     }
 };
