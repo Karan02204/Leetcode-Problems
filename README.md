@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Karan02204/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/Karan02204/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Karan02204/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Karan02204/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0403-frog-jump](https://github.com/Karan02204/Leetcode-Problems/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Karan02204/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Karan02204/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Karan02204/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Karan02204/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Karan02204/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Karan02204/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Karan02204/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/Karan02204/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/Karan02204/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Karan02204/Leetcode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Karan02204/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Karan02204/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Karan02204/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/Karan02204/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Karan02204/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Karan02204/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Karan02204/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Karan02204/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Karan02204/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Karan02204/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Karan02204/Leetcode-Problems/tree/master/0645-set-mismatch) |
