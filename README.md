@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Karan02204/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karan02204/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Karan02204/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/Karan02204/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Karan02204/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Karan02204/Leetcode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Karan02204/Leetcode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Karan02204/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Karan02204/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Karan02204/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Karan02204/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Karan02204/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Karan02204/Leetcode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Karan02204/Leetcode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/Karan02204/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Karan02204/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Karan02204/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Karan02204/Leetcode-Problems/tree/master/0207-course-schedule) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Karan02204/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Karan02204/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/Karan02204/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Karan02204/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Karan02204/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/Karan02204/Leetcode-Problems/tree/master/0463-island-perimeter) |
@@ -612,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Karan02204/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Karan02204/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
