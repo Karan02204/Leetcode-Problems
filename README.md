@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Karan02204/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Karan02204/Leetcode-Problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Karan02204/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Karan02204/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Karan02204/Leetcode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Karan02204/Leetcode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Karan02204/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Karan02204/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0904-leaf-similar-trees](https://github.com/Karan02204/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
+| [1020-number-of-enclaves](https://github.com/Karan02204/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Karan02204/Leetcode-Problems/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Karan02204/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Karan02204/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Karan02204/Leetcode-Problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Karan02204/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Karan02204/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Karan02204/Leetcode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Karan02204/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Karan02204/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Karan02204/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Karan02204/Leetcode-Problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Karan02204/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Karan02204/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Karan02204/Leetcode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Karan02204/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -618,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Karan02204/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Karan02204/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Karan02204/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
