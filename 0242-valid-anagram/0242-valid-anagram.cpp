@@ -11,12 +11,6 @@ public:
             f2[t[i] - 97]++;
         }
 
-        cout << 'g' - 97;
-        cout << 'i' - 97;
-
-        cout << 'e' - 97;
-        cout << 'k' - 97;
-
         for(int i=0;i<f1.size();i++){
             if(f1[i]!=f2[i]) return false;
         }
