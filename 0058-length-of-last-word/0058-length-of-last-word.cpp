@@ -1,21 +1,20 @@
 class Solution {
 public:
     int lengthOfLastWord(string s) {
-        vector<string> str;
+        int length = 0;
 
-        string temp = "";
-        for(int i=0;i<s.length();i++){
-            if(s[i] == ' '){
-                temp="";
-                continue;
-            } else{
-                temp += s[i];
-            }
-
-            str.push_back(temp);
-
+        int j=s.size()-1;
+        while(s[j] == ' '){
+            j--;
         }
-        
-        return str[str.size()-1].length();
+        while(j>=0){
+            if(s[j] == ' '){
+                break;
+            }
+            length++;
+            j--;
+        }
+
+        return length;
     }
 };
