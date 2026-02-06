@@ -4,14 +4,10 @@ public:
 
         string result="";
         while(columnNumber>0){
+            columnNumber--;
             int rem = columnNumber%26;
-            if(rem == 0){
-                result.push_back('Z');
-                columnNumber = columnNumber/26 - 1;
-            } else{
-                result.push_back((char)rem+64);
-                columnNumber/=26;
-            }
+            result.push_back((char)rem+65);
+            columnNumber/=26;
 
         }
         reverse(result.begin(),result.end());
