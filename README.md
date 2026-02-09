@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Karan02204/Leetcode-Problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Karan02204/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Karan02204/Leetcode-Problems/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/Karan02204/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0897-prime-palindrome](https://github.com/Karan02204/Leetcode-Problems/tree/master/0897-prime-palindrome) |
 | [1013-fibonacci-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Karan02204/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/Karan02204/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Karan02204/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/Karan02204/Leetcode-Problems/tree/master/0792-binary-search) |
