@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Karan02204/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Karan02204/Leetcode-Problems/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Karan02204/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Karan02204/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Karan02204/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Karan02204/Leetcode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Karan02204/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Karan02204/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/Karan02204/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Karan02204/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Karan02204/Leetcode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Brainteaser
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Karan02204/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Karan02204/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Karan02204/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Karan02204/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2574-left-and-right-sum-differences](https://github.com/Karan02204/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 ## Bit Manipulation
 |  |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Karan02204/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Karan02204/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/Karan02204/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Rolling Hash
 |  |
 | ------- |
