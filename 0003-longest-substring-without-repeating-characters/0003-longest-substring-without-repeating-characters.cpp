@@ -4,11 +4,11 @@ public:
         int i=0,j=0;
         int length = 0;
         int n = s.size();
-        unordered_map<char , int> mp;
+        unordered_map<char,int> m;
         while(j<n){
-            mp[s[j]]++;
-            while(mp[s[j]] > 1){
-                mp[s[i]]--;
+            m[s[j]]++;
+            while(m[s[j]] > 1){
+                m[s[i]]--;
                 i++;
             }
             length = max(length , j-i+1);
