@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Karan02204/Leetcode-Problems/tree/master/0817-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/Karan02204/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/Karan02204/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-sort-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Karan02204/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Karan02204/Leetcode-Problems/tree/master/0994-rotting-oranges) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Karan02204/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/Karan02204/Leetcode-Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karan02204/Leetcode-Problems/tree/master/0817-design-hashmap) |
+| [0930-binary-subarrays-with-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Karan02204/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Math
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Karan02204/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Karan02204/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Karan02204/Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Karan02204/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Karan02204/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2574-left-and-right-sum-differences](https://github.com/Karan02204/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Karan02204/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Karan02204/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Karan02204/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Rolling Hash
 |  |
