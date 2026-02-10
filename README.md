@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Karan02204/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Karan02204/Leetcode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Karan02204/Leetcode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Karan02204/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Karan02204/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Karan02204/Leetcode-Problems/tree/master/0817-design-hashmap) |
 | [0930-binary-subarrays-with-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Karan02204/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Karan02204/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Math
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/Karan02204/Leetcode-Problems/tree/master/0897-prime-palindrome) |
 | [1013-fibonacci-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Karan02204/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Karan02204/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2481-strictly-palindromic-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 ## Linked List
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Karan02204/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Karan02204/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Karan02204/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/Karan02204/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 ## Bit Manipulation
 |  |
@@ -569,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Karan02204/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Karan02204/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Karan02204/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Rolling Hash
 |  |
 | ------- |
