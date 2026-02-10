@@ -3,9 +3,9 @@ public:
     int helper(vector<int>& nums , int goal){
         if (goal < 0) return 0;
 
-        int i = 0, sum = 0, count = 0;
+        int i = 0, j=0 , sum = 0, count = 0;
 
-        for (int j = 0; j < nums.size(); j++) {
+        while(j<nums.size()) {
             sum += nums[j];
 
             while (sum > goal) {
@@ -14,6 +14,7 @@ public:
             }
 
             count += (j - i + 1);
+            j++;
         }
 
         return count;
