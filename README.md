@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Karan02204/Leetcode-Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karan02204/Leetcode-Problems/tree/master/0817-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/Karan02204/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Karan02204/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/Karan02204/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-sort-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0948-sort-an-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Karan02204/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/Karan02204/Leetcode-Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karan02204/Leetcode-Problems/tree/master/0817-design-hashmap) |
+| [0904-fruit-into-baskets](https://github.com/Karan02204/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Karan02204/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Karan02204/Leetcode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Karan02204/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Karan02204/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0904-fruit-into-baskets](https://github.com/Karan02204/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Karan02204/Leetcode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Karan02204/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
