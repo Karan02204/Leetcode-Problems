@@ -9,9 +9,7 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        ListNode* slow = head;
-        ListNode* fast = head;
-
+        ListNode* slow = head , *fast = head;
         ListNode* temp = head;
 
         while(fast!=NULL && fast->next!=NULL){
