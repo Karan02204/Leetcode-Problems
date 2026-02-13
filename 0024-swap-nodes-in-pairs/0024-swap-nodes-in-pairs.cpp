@@ -10,27 +10,53 @@
  */
 class Solution {
 public:
+    ListNode* reverseList(ListNode* head) {
+        ListNode* curr = head, *prev = NULL;
+
+        while(curr!=NULL){
+            ListNode* nextNode = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = nextNode;
+        }
+
+        return prev;
+    }
+    
+    ListNode* findkNode(ListNode* temp , int k){
+        k -= 1;
+        while(temp!=NULL && k>0){
+            k--;
+            temp = temp->next;
+        }
+
+        return temp;
+    }
+
     ListNode* swapPairs(ListNode* head) {
-       ListNode* temp = head;
-       ListNode* dummy = new ListNode(0);
-       ListNode* start = dummy;
-       if(head==NULL){
-        return NULL;
-       }
+        ListNode* temp = head , *prev = NULL;
 
-       if(head->next==NULL){
+        while(temp!=NULL){
+            ListNode *kth = findkNode(temp , 2);
+            if(kth == NULL){
+                if(prev) prev->next = temp;
+                break;
+            }
+
+            ListNode* nextNode = kth->next;
+            kth->next = NULL;
+
+            reverseList(temp);
+            if(temp == head){
+                head = kth;
+            } else{
+                prev->next = kth;
+            }
+
+            prev = temp;
+            temp = nextNode;
+        }
+
         return head;
-       }
-       while(temp!=NULL && temp->next!=NULL){
-        ListNode* nextNode = temp->next;
-        start->next = nextNode;
-        temp->next = nextNode->next;
-        nextNode->next = temp;
-
-        temp = temp->next;
-        start = start->next->next;
-       }
-
-       return dummy->next; 
     }
 };
