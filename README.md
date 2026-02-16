@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Karan02204/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Karan02204/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/Karan02204/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/Karan02204/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/Karan02204/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Karan02204/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Karan02204/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Karan02204/Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Karan02204/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/Karan02204/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 | [0816-design-hashset](https://github.com/Karan02204/Leetcode-Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karan02204/Leetcode-Problems/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Karan02204/Leetcode-Problems/tree/master/0838-design-linked-list) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Karan02204/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0622-design-circular-queue](https://github.com/Karan02204/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 | [0816-design-hashset](https://github.com/Karan02204/Leetcode-Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karan02204/Leetcode-Problems/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Karan02204/Leetcode-Problems/tree/master/0838-design-linked-list) |
@@ -720,4 +723,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karan02204/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Karan02204/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
