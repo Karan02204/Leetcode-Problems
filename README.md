@@ -356,11 +356,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Karan02204/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Karan02204/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/Karan02204/Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Karan02204/Leetcode-Problems/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Karan02204/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Karan02204/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/Karan02204/Leetcode-Problems/tree/master/0901-online-stock-span) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Karan02204/Leetcode-Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karan02204/Leetcode-Problems/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Karan02204/Leetcode-Problems/tree/master/0838-design-linked-list) |
+| [0901-online-stock-span](https://github.com/Karan02204/Leetcode-Problems/tree/master/0901-online-stock-span) |
 ## Merge Sort
 |  |
 | ------- |
@@ -734,4 +737,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Karan02204/Leetcode-Problems/tree/master/0622-design-circular-queue) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Karan02204/Leetcode-Problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
