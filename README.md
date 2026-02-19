@@ -719,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Karan02204/Leetcode-Problems/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Karan02204/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Karan02204/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Karan02204/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/Karan02204/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
