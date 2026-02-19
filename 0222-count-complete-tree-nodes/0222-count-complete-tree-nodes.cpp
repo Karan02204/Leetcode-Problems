@@ -11,19 +11,12 @@
  */
 class Solution {
 public:
-    void Helper(vector<int>& ans, TreeNode* root){
-        if(root == NULL){
-            return;
-        }
-
-        Helper(ans,root->left);
-        ans.push_back(root->val);
-        Helper(ans,root->right);
-    }
     int countNodes(TreeNode* root) {
-        vector<int> ans;
-        Helper(ans,root);
+        if(!root) return 0;
+        
+        int left = countNodes(root->left);
+        int right = countNodes(root->right);
 
-        return ans.size();
+        return 1 + left + right;
     }
 };
