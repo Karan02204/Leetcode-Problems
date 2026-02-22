@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Karan02204/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Karan02204/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Karan02204/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0402-remove-k-digits](https://github.com/Karan02204/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Karan02204/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Karan02204/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Karan02204/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Karan02204/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Karan02204/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Karan02204/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/Karan02204/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Stack
 |  |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Karan02204/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Karan02204/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Karan02204/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Karan02204/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Karan02204/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Karan02204/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Karan02204/Leetcode-Problems/tree/master/0735-asteroid-collision) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Karan02204/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Karan02204/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Karan02204/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Karan02204/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Karan02204/Leetcode-Problems/tree/master/0739-daily-temperatures) |
