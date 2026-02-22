@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Karan02204/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/Karan02204/Leetcode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Karan02204/Leetcode-Problems/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/Karan02204/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Karan02204/Leetcode-Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Karan02204/Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Karan02204/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2104-sum-of-subarray-ranges](https://github.com/Karan02204/Leetcode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Karan02204/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Karan02204/Leetcode-Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Karan02204/Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Karan02204/Leetcode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
