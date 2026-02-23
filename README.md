@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Karan02204/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Karan02204/Leetcode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Karan02204/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Karan02204/Leetcode-Problems/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Depth-First Search
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Karan02204/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Karan02204/Leetcode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Karan02204/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Karan02204/Leetcode-Problems/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Breadth-First Search
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Karan02204/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
