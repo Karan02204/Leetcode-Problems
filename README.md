@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Karan02204/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/Karan02204/Leetcode-Problems/tree/master/0938-range-sum-of-bst) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Karan02204/Leetcode-Problems/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Karan02204/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Karan02204/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0904-leaf-similar-trees](https://github.com/Karan02204/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/Karan02204/Leetcode-Problems/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/Karan02204/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Karan02204/Leetcode-Problems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2685-count-the-number-of-complete-components](https://github.com/Karan02204/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Karan02204/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/Karan02204/Leetcode-Problems/tree/master/0938-range-sum-of-bst) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Karan02204/Leetcode-Problems/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Breadth-First Search
 |  |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Karan02204/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Karan02204/Leetcode-Problems/tree/master/0938-range-sum-of-bst) |
 ## Sliding Window
 |  |
 | ------- |
