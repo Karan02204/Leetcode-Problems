@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Karan02204/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Karan02204/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1929-concatenation-of-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Karan02204/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Karan02204/Leetcode-Problems/tree/master/2104-sum-of-subarray-ranges) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Karan02204/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Karan02204/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Karan02204/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karan02204/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Trie
