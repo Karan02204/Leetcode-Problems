@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Karan02204/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Karan02204/Leetcode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Karan02204/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Karan02204/Leetcode-Problems/tree/master/0938-range-sum-of-bst) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Karan02204/Leetcode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Karan02204/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Karan02204/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Karan02204/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0904-leaf-similar-trees](https://github.com/Karan02204/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Karan02204/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Karan02204/Leetcode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Karan02204/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Karan02204/Leetcode-Problems/tree/master/0938-range-sum-of-bst) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Karan02204/Leetcode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/Karan02204/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Karan02204/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Karan02204/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Karan02204/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
