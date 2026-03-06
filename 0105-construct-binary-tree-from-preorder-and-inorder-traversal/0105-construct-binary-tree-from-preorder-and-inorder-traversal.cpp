@@ -11,30 +11,27 @@
  */
 class Solution {
 public:
-    int preIndex = 0;
-    unordered_map<int , int> mp;
+    TreeNode* build(vector<int>& preorder , int preStart , int preEnd , vector<int>& inorder , int inStart , int inEnd , map<int ,int>& mp){
 
-    TreeNode* build(vector<int>& preorder , vector<int>& inorder , int inStart , int inEnd){
-        if(inStart > inEnd) return NULL;
+        if(preStart > preEnd || inStart > inEnd) return NULL;
 
-        int rootVal = preorder[preIndex];
-        preIndex++;
+        TreeNode* root = new TreeNode(preorder[preStart]);
 
-        TreeNode* root = new TreeNode(rootVal);
+        int inRoot = mp[root->val];
+        int numsleft = inRoot - inStart;
 
-        int inIndex = mp[rootVal];
+        root->left = build(preorder , preStart+1 , preStart + numsleft , inorder , inStart , inRoot-1 , mp);
 
-        root->left = build(preorder , inorder , inStart , inIndex-1);
-        root->right = build(preorder , inorder , inIndex+1 , inEnd);
+        root->right = build(preorder , preStart+numsleft+1 , preEnd , inorder , inRoot+1 , inEnd,mp);
 
         return root;
     }
-
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+        map<int , int> mp;
         for(int i=0;i<inorder.size();i++){
             mp[inorder[i]] = i;
         }
 
-        return build(preorder , inorder , 0 , inorder.size() - 1);
+        return build(preorder , 0, preorder.size() - 1, inorder, 0, inorder.size() - 1,mp);
     }
 };
