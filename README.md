@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Karan02204/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Karan02204/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Karan02204/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Karan02204/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Karan02204/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Karan02204/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Karan02204/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0622-design-circular-queue](https://github.com/Karan02204/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 | [0816-design-hashset](https://github.com/Karan02204/Leetcode-Problems/tree/master/0816-design-hashset) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Karan02204/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Karan02204/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Karan02204/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Karan02204/Leetcode-Problems/tree/master/0513-find-bottom-left-tree-value) |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Karan02204/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Karan02204/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Karan02204/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Karan02204/Leetcode-Problems/tree/master/0513-find-bottom-left-tree-value) |
@@ -629,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Karan02204/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Karan02204/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Karan02204/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Karan02204/Leetcode-Problems/tree/master/0513-find-bottom-left-tree-value) |
@@ -660,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Karan02204/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Karan02204/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Karan02204/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Karan02204/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Karan02204/Leetcode-Problems/tree/master/0463-island-perimeter) |
