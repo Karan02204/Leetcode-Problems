@@ -12,32 +12,32 @@
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-        //morris inorder traversal
-        vector<int> result;
-        if(!root) return result;
-        TreeNode* currNode = root;
-        
-        while(currNode!=NULL){
-            if(currNode->left == NULL){
-                result.push_back(currNode->val);
-                currNode = currNode->right;
+        vector<int> Inorder;
+
+        TreeNode* curr = root;
+
+        while(curr!=NULL){
+            if(!curr->left){
+                Inorder.push_back(curr->val);
+                curr = curr->right;
             } else{
-                TreeNode* prev = currNode->left;
-                while(prev->right!=NULL && prev->right!=currNode){
+                TreeNode* prev = curr->left;
+
+                while(prev->right && prev->right!=curr){
                     prev = prev->right;
                 }
 
-                if(prev->right == NULL){
-                    prev->right = currNode;
-                    currNode = currNode->left;
-                } else if (prev->right == currNode){
+                if(!prev->right){
+                    prev->right = curr;
+                    curr = curr->left;
+                } else{
                     prev->right = NULL;
-                    result.push_back(currNode->val);
-                    currNode = currNode->right;
+                    Inorder.push_back(curr->val);
+                    curr = curr->right;
                 }
             }
         }
 
-        return result;
+        return Inorder;
     }
 };
