@@ -9,28 +9,55 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+class BSTiterator {
+private:
+    stack<TreeNode*> st;
+    bool reverse;
+public:
+    BSTiterator(TreeNode* root , bool isReverse){
+        reverse = isReverse;
+        pushAll(root);
+        
+    }
+
+    int next(){
+        TreeNode* top = st.top();
+        st.pop();
+        if(!reverse){
+            pushAll(top->right);
+        } else{
+            pushAll(top->left);
+        }
+
+        return top->val;
+    }
+
+    void pushAll(TreeNode* root){
+        while(root){
+            st.push(root);
+            if(reverse){
+                root = root->right;
+            } else{
+                root = root->left;
+            }
+        }
+    }
+};
 class Solution {
 public:
-    void helper(TreeNode* root , vector<int>& inorder){
-        if(!root) return;
-
-        helper(root->left , inorder);
-        inorder.push_back(root->val);
-        helper(root->right , inorder);
-    }
     bool findTarget(TreeNode* root, int k) {
-        vector<int> inorder;
-        helper(root , inorder);
+        if(!root) return false;
 
-        for(int i : inorder) cout << i << " ";
+        BSTiterator l(root , false);
+        BSTiterator r(root , true);
 
-        map<int , int> mp;
-        
-        for(int i : inorder){
-            int difference = k-i;
+        int i=l.next();
+        int j = r.next();
 
-            if(mp.find(difference)!=mp.end()) return true;
-            mp[i] = i;
+        while(i < j){
+            if(i+j == k) return true;
+            else if(i+j < k) i = l.next();
+            else if(i+j > k) j = r.next();
         }
 
         return false;
