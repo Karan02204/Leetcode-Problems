@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Karan02204/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Greedy
 |  |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Karan02204/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Karan02204/Leetcode-Problems/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Karan02204/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Karan02204/Leetcode-Problems/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Karan02204/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Karan02204/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Karan02204/Leetcode-Problems/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -720,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Karan02204/Leetcode-Problems/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Karan02204/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Karan02204/Leetcode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
