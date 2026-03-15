@@ -1,49 +1,55 @@
 class Solution {
 public:
-    int firstOccurrence(vector<int>& nums, int target){
+    int helper_first(vector<int>& nums , int target){
+        int ans = -1;
+
         int low = 0;
-        int high = nums.size() -1;
-        int answer = -1;
-        while(low <= high){
+        int high = nums.size()-1;
+
+        while(low<=high){
             int mid = (low+high)/2;
+
             if(nums[mid] == target){
-                answer = mid;
-                high = mid-1;
-            }else if(target > nums[mid]){
-                low = mid+1;
+                ans = mid;
+                high = mid - 1;
+            } else if(nums[mid] < target){
+                low = mid + 1;
             } else{
                 high = mid -1;
             }
         }
 
-        return answer;
-
+        return ans;
     }
 
-    int lastOccurrence(vector<int>& nums, int target){
+    int helper_last(vector<int>& nums , int target){
+        int ans = -1;
+
         int low = 0;
-        int high = nums.size() -1;
-        int answer = -1;
-        while(low <= high){
+        int high = nums.size()-1;
+
+        while(low<=high){
             int mid = (low+high)/2;
+
             if(nums[mid] == target){
-                answer = mid;
-                low = mid+1;
-            } else if(target > nums[mid]){
-                low = mid+1;
+                ans = mid;
+                low = mid + 1;
+            } else if(nums[mid] < target){
+                low = mid + 1;
             } else{
-                high = mid -1;
+                high = mid - 1;
             }
         }
 
-        return answer;
-
+        return ans;
     }
 
     vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int> ans(2,0);
-        ans[0] = firstOccurrence(nums,target);
-        ans[1] = lastOccurrence(nums,target);
+        int first = helper_first(nums,target);
+        int last = helper_last(nums , target);
+
+        vector<int> ans;
+        ans.insert(ans.end() , {first , last});
 
         return ans;
     }
