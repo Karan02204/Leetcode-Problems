@@ -13,7 +13,10 @@ public:
         int j = column;
 
         while(i >=0 && j >=0){
-            if(temp[i][j] == 'Q') updiagonal = false;
+            if(temp[i][j] == 'Q'){
+                updiagonal = false;
+                break;
+            }
             i--;
             j--;
         }
@@ -22,7 +25,10 @@ public:
         j = column;
 
         while(i < n && j >=0){
-            if(temp[i][j] == 'Q') downdiagonal = false;
+            if(temp[i][j] == 'Q'){
+                downdiagonal = false;
+                break;
+            }
             i++;
             j--;
         }
