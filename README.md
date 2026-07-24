@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Karan02204/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Karan02204/Leetcode-Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Karan02204/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/Karan02204/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Karan02204/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Karan02204/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Karan02204/Leetcode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Karan02204/Leetcode-Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Karan02204/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2596-check-knight-tour-configuration](https://github.com/Karan02204/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/Karan02204/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Karan02204/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Karan02204/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Karan02204/Leetcode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Karan02204/Leetcode-Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Karan02204/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2596-check-knight-tour-configuration](https://github.com/Karan02204/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 ## Combinatorics
