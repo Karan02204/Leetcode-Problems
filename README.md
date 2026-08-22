@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Karan02204/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Karan02204/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2481-strictly-palindromic-number](https://github.com/Karan02204/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Karan02204/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Linked List
 |  |
 | ------- |
